@@ -1,5 +1,5 @@
-# some-slides
-Some slides produced by me for different purposes 
-
+# Slides
+Estou colocando aqui diversas apresentações e slides de conteúdo produzidos por mim para diferentes propósitos.
 ## Python 
-- A number of slides with basic concepts of Python programming for data analysis
+- Conjunto de slides que trazem conceitos básico de python para análise de dados;
+- Alguns slide apresentam conteúdos e exercícios;
